@@ -1,4 +1,4 @@
-# Hi, I'm Mo Ran 👋
+# Hi, I'm Kieran Zhang 👋
 
 > I build practical tools at the intersection of systems engineering and AI-native applications.
 
