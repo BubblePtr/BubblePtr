@@ -1,113 +1,77 @@
-# Hi, I'm Kieran Zhang 👋
+# Hi, I'm Kieran ✌️
 
-> I build practical tools at the intersection of systems engineering and AI-native applications.
+> AI 全栈独立开发者 · 前大厂开发者工具工程师  
+> Building AI-native tools, shipping fast, sharing what works.
 
-I focus on shipping work that is technically solid and directly useful to developers.
-- Systems performance: concurrency, memory, and low-level optimization
-- Tooling and infrastructure: compiler/language tooling and engineering productivity
-- AI-native products: agents, automation workflows, and developer tooling
-
----
-
-## Signature Work
-
-- **Cangjie Language Server (Backend Architecture)**  
-  Built backend architecture and core service capabilities for compiler-adjacent tooling.
-
-- **Performance Engineering for Large-Scale Apps**  
-  Delivered system-level performance tuning in production contexts (including Feishu, Douyin, and Bilibili).
-
-- **AI-Driven Mobile Testing Platform (Current)**  
-  Building an automated mobile testing platform on top of **Mobile-Agent-v2 (MAIUI)**.
+I build at the intersection of AI and developer tooling — agents, automation, voice, and open source.
+Currently transitioning to full-time indie hacking from June 2026.
 
 ---
 
 ## Featured Projects
 
-| Project | Snapshot |
+| Project | Description |
 | --- | --- |
-| [**Sinan**](https://github.com/AgensK/Sinan) | ![Sinan top language](https://img.shields.io/github/languages/top/AgensK/Sinan?style=flat-square) ![Sinan stars](https://img.shields.io/github/stars/AgensK/Sinan?style=flat-square) ![Sinan last commit](https://img.shields.io/github/last-commit/AgensK/Sinan?style=flat-square) |
-| [**VibeBar**](https://github.com/AgensK/VibeBar) | ![VibeBar top language](https://img.shields.io/github/languages/top/AgensK/VibeBar?style=flat-square) ![VibeBar stars](https://img.shields.io/github/stars/AgensK/VibeBar?style=flat-square) ![VibeBar last commit](https://img.shields.io/github/last-commit/AgensK/VibeBar?style=flat-square) |
-| [**TrustSkill**](https://github.com/AgensK/TrustSkill) | ![TrustSkill top language](https://img.shields.io/github/languages/top/AgensK/TrustSkill?style=flat-square) ![TrustSkill stars](https://img.shields.io/github/stars/AgensK/TrustSkill?style=flat-square) ![TrustSkill last commit](https://img.shields.io/github/last-commit/AgensK/TrustSkill?style=flat-square) |
-| [**jsonrpc4cj**](https://github.com/AgensK/jsonrpc4cj) | ![jsonrpc4cj stars](https://img.shields.io/github/stars/AgensK/jsonrpc4cj?style=flat-square) ![jsonrpc4cj last commit](https://img.shields.io/github/last-commit/AgensK/jsonrpc4cj?style=flat-square) |
+| [**awesome-pi**](https://github.com/BubblePtr/awesome-pi) ⭐16 | Curated list of Pi Coding Agent extensions, themes, skills, and community resources |
+| [**AgentHuntify**](https://github.com/BubblePtr/AgentHuntify) | AI Agent technology directory — Bun + TanStack Start + Cloudflare Workers |
+| [**LawTriage**](https://github.com/BubblePtr/LawTriage) | 律所 AI 外呼分诊演示系统 — real-time voice agent with OpenAI ASR/LLM/TTS |
+| [**Voily**](https://github.com/BubblePtr/Voily) | Native macOS voice dictation app — local MLX ASR, Swift + SwiftUI |
+| [**concerto**](https://github.com/BubblePtr/concerto) | OpenAI Symphony 开源 Rust 实现 |
+| [**MindBack**](https://github.com/BubblePtr/MindBack) | 开源注意力记录工具 — Rust + Tauri |
+| [**gtrboard**](https://github.com/BubblePtr/gtrboard) | AI Native 内容选题工作台 — discover & evaluate GitHub Trending projects with LLM |
+| [**VibeBar**](https://github.com/BubblePtr/VibeBar) | Native macOS menu bar app to track AI coding tool usage |
 
 ---
 
 ## Current Focus
 
-- Shipping AI-native developer products with strong reliability and observability
-- Publishing implementation notes on systems + AI engineering
-- Exploring multi-agent collaboration and blockchain engineering patterns
+- 🚀 Going full-time indie — shipping AI-native products and tools
+- 🎬 Creating daily short-form videos recommending open source projects on X
+- ✍️ Writing about AI engineering, indie dev, and systems thinking at [kieranzhang.dev](https://kieranzhang.dev)
+- 🧪 Experimenting with multi-agent collaboration, voice agents, and LLM observability
 
 ---
 
-## Output Channels
-
-- **Open Source Repositories**: [github.com/AgensK?tab=repositories](https://github.com/AgensK?tab=repositories)
-- **Writing / Notes**: [ninthbit.org](https://ninthbit.org)
-- **Build in Public Updates**: [@ninthbit_ai](https://twitter.com/ninthbit_ai)
-
-<p>
-  <img src="https://img.shields.io/github/followers/AgensK?style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/AgensK?style=for-the-badge&logo=github" alt="GitHub stars" />
-</p>
-
----
-
-## Selected Writing
-
-- **RSS Feed**: [ninthbit.org/rss.xml](https://ninthbit.org/rss.xml)
-- **All Articles**: [ninthbit.org](https://ninthbit.org)
-- **Latest Posts (from RSS)**:
-  - [2025 Year-End Reflection](https://ninthbit.org/blog/en/my-2025-summary/) — 2025-12-25
-  - [YouMind Content Creation SOP for WeChat Articles](https://ninthbit.org/blog/en/youmind-sop/) — 2025-12-13
-  - [Why Do We Set Out](https://ninthbit.org/blog/en/why-do-we-set-out/) — 2025-12-04
-  - [The Magic of MDX: From Text to Interaction](https://ninthbit.org/blog/en/using-mdx/) — 2025-11-25
-
-<a href="https://ninthbit.org/rss.xml">
-  <img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=for-the-badge&logo=rss&logoColor=white" alt="RSS subscription badge" />
-</a>
-
----
-
-## Tech Stack (Derived from Code)
+## Tech Stack
 
 <!-- TECH_STACK_START -->
-_Data source: GitHub Linguist bytes from `Sinan`, `VibeBar`, `TrustSkill`, and `jsonrpc4cj`._
-_Last refreshed: 2026-02-28 16:39 CST._
+_Data source: GitHub Linguist bytes from active repositories._
+_Last refreshed: 2026-06-01._
 
-| Language | Share (bytes) | Repositories |
+| Language | Share | Key Repos |
 | --- | ---: | --- |
-| Python | 53.2% | Sinan, TrustSkill |
-| Swift | 18.5% | VibeBar |
-| TypeScript | 14.6% | Sinan |
-| CSS | 6.9% | Sinan |
-| Shell | 6.6% | VibeBar |
-| JavaScript | 0.1% | Sinan |
-| HTML | 0.1% | Sinan |
-| Cangjie* | N/A | jsonrpc4cj |
-
-\* GitHub Linguist currently does not classify Cangjie, so percentage shares exclude `.cj` files.
+| TypeScript | 41.2% | AgentHuntify, LawTriage, gtrboard, ZenBlog |
+| Swift | 26.1% | Voily, VibeBar |
+| Rust | 13.6% | concerto, MindBack |
+| MDX | 5.1% | ZenBlog |
+| CSS | 4.2% | ZenBlog, AgentHuntify, gtrboard |
+| Python | 2.5% | gtrboard, MindBack |
+| JavaScript | 2.0% | ZenBlog |
+| Astro | 1.6% | ZenBlog |
+| Shell | 1.4% | Voily, VibeBar |
 <!-- TECH_STACK_END -->
 
 _Refresh command: `scripts/update_tech_stack.sh`_
 
 ---
 
-## What I Care About
+## Output Channels
 
-- Reliability and observability of AI agents in production
-- Developer experience: moving from “works” to “feels great”
-- Applying systems engineering discipline to high-performance AI applications
+- 🌍 **Blog**: [kieranzhang.dev](https://kieranzhang.dev)
+- 𝕏 **Twitter/X**: [@ninthbit_ai](https://twitter.com/ninthbit_ai)
+- 📂 **GitHub**: [github.com/BubblePtr](https://github.com/BubblePtr)
+
+<p>
+  <img src="https://img.shields.io/github/followers/BubblePtr?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/BubblePtr?style=for-the-badge&logo=github" alt="GitHub stars" />
+</p>
 
 ---
 
 ## Contact
 
 - 📫 Email: [oldmeatovo@gmail.com](mailto:oldmeatovo@gmail.com)
-- 🌍 Blog: [ninthbit.org](https://ninthbit.org)
-- 𝕏 Twitter: [@ninthbit_ai](https://twitter.com/ninthbit_ai)
-- 💬 Topics: performance tuning, compiler tooling, backend architecture, and AI agent engineering
+- 💬 Topics: AI agents, voice AI, indie hacking, developer tooling, systems engineering
 
 ---
 
